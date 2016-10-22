@@ -3,7 +3,7 @@
 中文富文本中带行间距的文字计算方案与显示方案。
 
 
-·##一、文本获取高度的方式：
+##一、文本获取高度的方式：
 1. 通过UILabel获取文本的高度
 ``` 
 UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 100, 1)]; 
